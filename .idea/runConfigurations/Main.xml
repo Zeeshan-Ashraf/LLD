@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Main" type="Java Scratch" nameIsGenerated="true">
+    <option name="MAIN_CLASS_NAME" value="Main" />
+    <module name="LLD" />
+    <option name="SCRATCH_FILE_URL" value="file://$PROJECT_DIR$/hello-world/Main.java" />
+    <shortenClasspath name="NONE" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
