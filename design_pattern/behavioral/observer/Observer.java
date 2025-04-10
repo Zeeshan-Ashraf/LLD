@@ -1,4 +1,4 @@
-package design_pattern.behavioral;
+package design_pattern.behavioral.observer;
 
 public class Observer implements ObserverInterface {
     private ObservableInterface observable;
