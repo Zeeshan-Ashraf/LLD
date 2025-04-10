@@ -1,6 +1,4 @@
-package design_pattern.behavioral;
-
-import java.util.Observer;
+package design_pattern.behavioral.observer;
 
 public interface ObservableInterface {
     public void add(ObserverInterface observer);
