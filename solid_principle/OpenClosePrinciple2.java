@@ -4,7 +4,7 @@ public class OpenClosePrinciple2 implements OpenClosable {
 
     @Override
     public Integer add(Integer a, Integer b) {
-        return 0;
+        return a + b;
     }
 
 
