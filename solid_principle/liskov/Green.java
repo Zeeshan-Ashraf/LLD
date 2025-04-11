@@ -1,7 +1,7 @@
 package solid_principle.liskov;
 
 public class Green {
-    public void show() {
+    public void getColor() {
         System.out.println("Green");
     }
 }
