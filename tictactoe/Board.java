@@ -76,11 +76,11 @@ public class Board {
         for (int row = 0; row < 3; row++) {
             for (int col = 0; col < 3; col++) {
                 if (board[row][col].getPlayer() == null)
-                    System.out.print(" ");
+                    System.out.print("| ");
                 else
-                    System.out.print(board[row][col].getPlayer().getSymbol());
+                    System.out.print("|"+board[row][col].getPlayer().getSymbol());
             }
-            System.out.println();
+            System.out.println("|");
         }
     }
 }
